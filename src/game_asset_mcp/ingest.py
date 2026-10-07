@@ -2,7 +2,7 @@
 ingest.py — Scan the asset library and populate the SQLite catalog.
 
 Usage:
-    python -m game_asset_mcp.ingest [--root /Volumes/home/assets] [--force] [--dry-run]
+    python -m game_asset_mcp.ingest [--root /path/to/your/3d-assets] [--force] [--dry-run]
 
 Does NOT require Blender. Uses pure-Python GLB reader for all mesh stats.
 """

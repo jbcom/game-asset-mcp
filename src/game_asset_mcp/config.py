@@ -9,7 +9,7 @@ Settings are loaded in priority order (lowest → highest):
 
 Example TOML config:
     [library]
-    assets_root = "/Volumes/home/assets"
+    assets_root = "/path/to/your/3d-assets"
     catalog_db = "~/.local/share/game-asset-mcp/catalog.db"
 
     [taxonomy.style_map]
