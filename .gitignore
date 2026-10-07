@@ -8,3 +8,9 @@ build/
 *.egg-info/
 .DS_Store
 *.db
+.agent-state/
+.claude/
+.mcp.json
+opencode.json
+.augment/
+.agents/

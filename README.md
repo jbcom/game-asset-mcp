@@ -41,7 +41,7 @@ claude mcp add game-asset-library \
   -- game-asset-mcp
 ```
 
-Or add to `~/.claude.json` manually:
+Or add this server entry to your MCP client's configuration:
 
 ```json
 {
